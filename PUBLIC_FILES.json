@@ -1,0 +1,42 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 36,
+    "sha256": "f4ed9e4e6226b69843f3eddd3008557e184f68360678cf7eb40af8a6dabaa5bd"
+  },
+  {
+    "path": "docs/FusionHD-poster.pdf",
+    "bytes": 387639,
+    "sha256": "754c4f9cf34510cebbbb805d6023667ea7f639d0eeb916d30481b8a6f8abc1ca"
+  },
+  {
+    "path": "images/board-back.jpg",
+    "bytes": 222542,
+    "sha256": "c1b223e495628bb4203d2b5204b768fb26c5ba65837b6d6ca4567861c1c1a0ee"
+  },
+  {
+    "path": "images/board-front.jpg",
+    "bytes": 229877,
+    "sha256": "10e9eb899d244335d14cbe3ece837f75f7e7fc5c1b8a39950eac4a9dc830c40e"
+  },
+  {
+    "path": "images/poster-preview.png",
+    "bytes": 620148,
+    "sha256": "3fbbfa41f20d7a1021ca1c0913da1b2a83aa19e5e6c0c173578e65d65f1e385e"
+  },
+  {
+    "path": "images/system-overview.jpg",
+    "bytes": 215228,
+    "sha256": "7b63ec63dd3505d4369215be24a1cddecc8307deb97a796ef62ff56a1b601e8f"
+  },
+  {
+    "path": "media/FusionHD-demo.mp4",
+    "bytes": 24862106,
+    "sha256": "72b43470d52b72a7f0ee9263d6a00ffe03acea5a418f9c8e13d948a7c57fa49a"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3255,
+    "sha256": "0cc2777a3c2e60f97d68ff116a0945b69a098acc0a12cca1393d1c622cd2156c"
+  }
+]
