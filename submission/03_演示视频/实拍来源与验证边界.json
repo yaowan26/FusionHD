@@ -1,0 +1,41 @@
+{
+  "raw_video": {
+    "name": "65b8957f7321fa592e21df3843fa05e5_raw.mp4",
+    "sha256": "3a505b3ff1876ade04e4393a05923382de9728f1547c27f9d87e9a37530c937e",
+    "bytes": 257781973,
+    "duration_s": 173.37,
+    "video_codec": "HEVC Main 10 (HLG / Dolby Vision profile 8)",
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  "submission_video": {
+    "name": "FusionHD_演示视频_H264.mp4",
+    "sha256": "9973093f4d00a196230d11ac14284449891ed2b2915a1138df670649a7871803",
+    "bytes": 36137623,
+    "duration_s": 173.37,
+    "video_codec": "H.264/AVC High, 1920x1080, 30 fps, bt709",
+    "audio": "original AAC stream copied without gain, denoising or replacement",
+    "editing": "full duration and ordering preserved; no cuts or speed changes; HDR to SDR tone-mapped",
+    "metadata": "container metadata stripped"
+  },
+  "raw_photos": {
+    "e621ee3a98ae31a9dd5a38eeb5cd00fb.jpg": "0103714fb8e24c772c2b08ec8bb7314fc2fa9fddb85b5a38bd99ac798e36ff97",
+    "263e9b63332cc9599e7bddf9ec4f9b9f.jpg": "9fdb62134098e0b49eec79af3d13b700d28c3e37974d9321adf81af09d25ec7c",
+    "12446e33d6225f5367129f5b590f4dbb.jpg": "e34c60f89a510938fbb541daa3532d13df302d965a517662f2679e5f5084e223",
+    "ebf7663c39e47fe3d5f17cd038bb8e6f.jpg": "df9b216acba170d6d7842566588ee29688c1c052c03f4ae2542e8a1e53db9205",
+    "09fd1abed61c46c81e82ac204e4472cb.jpg": "fba873f8508acccf803962ea90bdd6445b31af46609834f2306025a393d50c03",
+    "7afd76871734966ae6cba32470d9de8c.jpg": "c5ede3ef76b32146ed19b81392f4277a6183ecade4d9b07d6a5573af96823a23"
+  },
+  "display_orientation": {
+    "01_作品全貌.png": "original first photo rotated 90 degrees counter-clockwise for presentation; all pixels retained"
+  },
+  "scope": "Functional demonstration, not an additional endurance, accuracy, battery charging safety or complete power-cycle measurement",
+  "frame_times_s": [
+    20,
+    45,
+    80,
+    150
+  ]
+}

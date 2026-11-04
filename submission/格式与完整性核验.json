@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-11-04",
+  "report_pages": 63,
+  "report_bytes": 3448308,
+  "report_sha256": "933c7e742da473c05aae151d45ee84f78904c8188ee95ddbe28063cec04f2152",
+  "report_docx_bytes": 1296440,
+  "report_docx_sha256": "66aa5a53de64be7b5c05a98d67936ee1c3c9f3ff2d5c54c1586e7bc2373a6fdd",
+  "code_rar_bytes": 87451437,
+  "code_rar_sha256": "3a229395b60d7f38d6b47819e1debd937328a7bc063ee4e8e1ab13e8bc43eb4b",
+  "video_bytes": 36137623,
+  "video_duration_seconds": 173.37,
+  "video_codec": "H.264/AVC High, 1920x1080, 30 fps, bt709",
+  "audio_codec": "AAC LC, 44.1 kHz stereo",
+  "video_audio_preserved": "original AAC stream copied without re-encode",
+  "video_treatment": "HDR (HLG) to SDR tone-mapped; no cuts, speed changes or audio replacement",
+  "poster_bytes": 2268637,
+  "poster_pages": 1,
+  "bitstream_sha256": "cd4d30e1b123f7b3853b4993c31bbd69c336de7707c4237e05c7d8f0547f3118",
+  "team_identifiers_present": false,
+  "anonymization_note": "报告、海报、视频、文件名与仓库文本均不含可识别身份的信息",
+  "scope": "资料为本地整理后发布到公开仓库；不代替报名系统的提交记录"
+}

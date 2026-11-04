@@ -1,0 +1,147 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 26,
+    "sha256": "380bee7f32ff9509217f875bf2ff35802b264062d488d19133ad362eda821fc5"
+  },
+  {
+    "path": "docs/FusionHD-poster.pdf",
+    "bytes": 2268637,
+    "sha256": "dcc9ee25aa422d08befb90be9fe1ed555f8cd26c87fc87dca0b2e2bc9c52fefe"
+  },
+  {
+    "path": "images/board-back.jpg",
+    "bytes": 231250,
+    "sha256": "df9b216acba170d6d7842566588ee29688c1c052c03f4ae2542e8a1e53db9205"
+  },
+  {
+    "path": "images/board-front.jpg",
+    "bytes": 263087,
+    "sha256": "e34c60f89a510938fbb541daa3532d13df302d965a517662f2679e5f5084e223"
+  },
+  {
+    "path": "images/hdmi-interface.jpg",
+    "bytes": 152422,
+    "sha256": "c5ede3ef76b32146ed19b81392f4277a6183ecade4d9b07d6a5573af96823a23"
+  },
+  {
+    "path": "images/poster-preview.png",
+    "bytes": 287860,
+    "sha256": "00d4c1c53f2534c7a7d2c3c5f984fe23c5eefc98620f864cf6ff7eca761e6c2c"
+  },
+  {
+    "path": "images/rtc-wiring.jpg",
+    "bytes": 191106,
+    "sha256": "fba873f8508acccf803962ea90bdd6445b31af46609834f2306025a393d50c03"
+  },
+  {
+    "path": "images/system-overview.png",
+    "bytes": 1230727,
+    "sha256": "7ed92c4833d986289f2fb18e06bb44e3ea30a6939f4f8b9da6915de6863afd26"
+  },
+  {
+    "path": "images/ui-emergency.png",
+    "bytes": 318379,
+    "sha256": "be5ee7e1494dbeba2f8d9daee8b20157e2fda3cde80b713ae66e6109d02978a7"
+  },
+  {
+    "path": "images/ui-normal.png",
+    "bytes": 321586,
+    "sha256": "c12d1726648c716e6a3fbe877e3937ddbed04bb3f20d1085cf6468b26824afa9"
+  },
+  {
+    "path": "media/FusionHD-demo.mp4",
+    "bytes": 36137623,
+    "sha256": "9973093f4d00a196230d11ac14284449891ed2b2915a1138df670649a7871803"
+  },
+  {
+    "path": "README.md",
+    "bytes": 7658,
+    "sha256": "b4221ece5243779c9fcc27ed43901b71e7b146decc1083fe38e68a4e39888036"
+  },
+  {
+    "path": "submission/00_提交清单_先看这里.md",
+    "bytes": 2960,
+    "sha256": "89dfb81cd7de4cc356fbc23e9793305598f72a92478a1ff8a31a795a0037b260"
+  },
+  {
+    "path": "submission/01_技术文档/FusionHD_设计报告_匿名版.docx",
+    "bytes": 1296440,
+    "sha256": "66aa5a53de64be7b5c05a98d67936ee1c3c9f3ff2d5c54c1586e7bc2373a6fdd"
+  },
+  {
+    "path": "submission/01_技术文档/FusionHD_设计报告_匿名版.pdf",
+    "bytes": 3448308,
+    "sha256": "933c7e742da473c05aae151d45ee84f78904c8188ee95ddbe28063cec04f2152"
+  },
+  {
+    "path": "submission/02_全部代码/FusionHD_全部代码.rar",
+    "bytes": 87451437,
+    "sha256": "3a229395b60d7f38d6b47819e1debd937328a7bc063ee4e8e1ab13e8bc43eb4b"
+  },
+  {
+    "path": "submission/03_演示视频/FusionHD_演示视频_H264.mp4",
+    "bytes": 36137623,
+    "sha256": "9973093f4d00a196230d11ac14284449891ed2b2915a1138df670649a7871803"
+  },
+  {
+    "path": "submission/03_演示视频/实拍来源与验证边界.json",
+    "bytes": 1872,
+    "sha256": "fa4d22ddbb309b1d359bd6bfaaa8d4450b01f21be330365dd52a55552aafb678"
+  },
+  {
+    "path": "submission/04_承诺及使用授权书/说明.md",
+    "bytes": 421,
+    "sha256": "480c44374458def6215de33b050061e5d6752ae1824df16dbe09735318d67a1a"
+  },
+  {
+    "path": "submission/05_作品照片/01_作品全貌.png",
+    "bytes": 1230727,
+    "sha256": "7ed92c4833d986289f2fb18e06bb44e3ea30a6939f4f8b9da6915de6863afd26"
+  },
+  {
+    "path": "submission/05_作品照片/02_开发板正面与RTC.jpg",
+    "bytes": 263087,
+    "sha256": "e34c60f89a510938fbb541daa3532d13df302d965a517662f2679e5f5084e223"
+  },
+  {
+    "path": "submission/05_作品照片/03_开发板背面TF卡槽.jpg",
+    "bytes": 231250,
+    "sha256": "df9b216acba170d6d7842566588ee29688c1c052c03f4ae2542e8a1e53db9205"
+  },
+  {
+    "path": "submission/05_作品照片/04_DS3231模块接线.jpg",
+    "bytes": 191106,
+    "sha256": "fba873f8508acccf803962ea90bdd6445b31af46609834f2306025a393d50c03"
+  },
+  {
+    "path": "submission/05_作品照片/05_显示器HDMI接口.jpg",
+    "bytes": 152422,
+    "sha256": "c5ede3ef76b32146ed19b81392f4277a6183ecade4d9b07d6a5573af96823a23"
+  },
+  {
+    "path": "submission/05_作品照片/照片范围说明.md",
+    "bytes": 515,
+    "sha256": "f23cd2915113e0e051e616307a7901796b977bba134bcf0d969176810fe507d0"
+  },
+  {
+    "path": "submission/06_作品海报_选填/FusionHD_作品海报.pdf",
+    "bytes": 2268637,
+    "sha256": "dcc9ee25aa422d08befb90be9fe1ed555f8cd26c87fc87dca0b2e2bc9c52fefe"
+  },
+  {
+    "path": "submission/作品简介与关键词_可复制填写.txt",
+    "bytes": 1051,
+    "sha256": "d9770dcbd6c7ff780f42c74d988c0098aaed25bda054bed3925937d20916d60b"
+  },
+  {
+    "path": "submission/文件校验_SHA256.json",
+    "bytes": 1877,
+    "sha256": "225bccb090a8ed867f7bf4d9e9399611bd764b65f806cc8b236b6cbe5271f1d6"
+  },
+  {
+    "path": "submission/格式与完整性核验.json",
+    "bytes": 1163,
+    "sha256": "85713ef33915baa789ca5a75147dda1992e676709c66118f38a9c1f1735287a3"
+  }
+]
